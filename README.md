@@ -25,3 +25,8 @@ Want the mobile status like bleed? Click [here](https://www.youtube.com/watch?v=
 
 # Vanity Protection
 Tired of getting your vanity stolen? You can check out my other public repository for the solution [here](https://github.com/pxzc/Discord-Anti-Vanity)
+# Preview
+![image](https://github.com/pxzc/bleed-anti/assets/109006993/e1d7ca1b-f351-4a0c-a885-6b133045087a)
+![image](https://github.com/pxzc/bleed-anti/assets/109006993/6aea4ecf-71e3-4511-a6b3-1b39fbf25698)
+![image](https://github.com/pxzc/bleed-anti/assets/109006993/df77aacb-8574-4c6a-a234-649154c2efd8)
+![image](https://github.com/pxzc/bleed-anti/assets/109006993/dbbf3689-c719-44ea-8d2b-1b94b2404cfe)
